@@ -1,5 +1,5 @@
 Git is a version control system.
-a-Git is free sofrware.
+a-Git is a free sofrware.
 This is a file.
 add,commit.
 dev working----
